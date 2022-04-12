@@ -34,7 +34,7 @@ node_modules
 
 .DS_Store
 .idea
-#server/data.json
-#server/config.json
-#dist
-#webtask.json
+server/data.json
+server/config.json
+dist
+webtask.json
