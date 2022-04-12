@@ -14,7 +14,7 @@
       "description": "Segment API Key",
       "required": true
     },
-    "LOG_LEVEL": "1,2,3,4',
+    "LOG_LEVEL": 4,
     "LOG_TYPES": null
   }
 }
