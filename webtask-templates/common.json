@@ -1,12 +1,13 @@
 {
-  "author": "auth0",
+  "author": "EDGE SA",
   "type": "cron",
   "category": "log_export",
   "initialUrlPath": "/login",
-  "repository": "https://github.com/auth0-extensions/auth0-logs-to-provider",
+  "repository": "https://github.com/cbenitez/auth0-logs-to-provider",
   "keywords": [
     "auth0",
-    "extension"
+    "extension",
+    "segment"
   ],
   "schedule": "0 */5 * * * *",
   "auth0": {
